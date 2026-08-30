@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Parnapalli%20Anish&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Robotics%20%26%20AI&amp;descSize=18&amp;descAlignY=58" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Anish%20Parnapalli&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 <a href="https://github.com/Anishparnapalli">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Embedded+Systems+%26+IoT+Developer;Robotics+%2B+Edge+AI+Enthusiast;RTOS+%26+Real-Time+Systems;3x+Hackathon+Runner-Up+%F0%9F%8F%86;Building+hardware+that+thinks." alt="Typing SVG" />
