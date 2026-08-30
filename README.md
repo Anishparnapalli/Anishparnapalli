@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Parnapalli%20Anish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Robotics%20%26%20AI&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Parnapalli%20Anish&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Electronics%20%26%20Communication%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Robotics%20%26%20AI&amp;descSize=18&amp;descAlignY=58" width="100%"/>
 
 <a href="https://github.com/Anishparnapalli">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Embedded+Systems+%26+IoT+Developer;Robotics+%2B+Edge+AI+Enthusiast;RTOS+%26+Real-Time+Systems;3x+Hackathon+Runner-Up+%F0%9F%8F%86;Building+hardware+that+thinks." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Embedded+Systems+%26+IoT+Developer;Robotics+%2B+Edge+AI+Enthusiast;RTOS+%26+Real-Time+Systems;3x+Hackathon+Runner-Up+%F0%9F%8F%86;Building+hardware+that+thinks." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/anish-parnapalli-0b87052a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://anishparnapnapalliportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" /></a>
-<a href="mailto:anishparnapalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anish-parnapalli-0b87052a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://anishparnapalliportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=framer&amp;logoColor=white" /></a>
+<a href="mailto:anishparnapalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
 </div>
 
@@ -190,12 +190,12 @@ A hybrid offline/online wearable assistive system for elderly and mobility-impai
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anishparnapalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anishparnapalli&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anishparnapalli&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anishparnapalli&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anishparnapalli&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anishparnapalli&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
 </div>
 
 <br/>
@@ -204,14 +204,14 @@ A hybrid offline/online wearable assistive system for elderly and mobility-impai
 
 ### 📬 Let's Connect
 
-<a href="https://www.linkedin.com/in/anish-parnapalli-0b87052a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://anishparnapnapalliportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" /></a>
-<a href="mailto:anishparnapalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anish-parnapalli-0b87052a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://anishparnapalliportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=framer&amp;logoColor=white" /></a>
+<a href="mailto:anishparnapalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anishparnapalli&color=7AA2F7&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
