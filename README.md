@@ -1,15 +1,12 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Anish%20Parnapalli&fontSize=42&fontColor=ffffff&animation=fadeIn)
-<a href="https://github.com/Anishparnapalli">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Embedded+Systems+%26+IoT+Developer;Robotics+%2B+Edge+AI+Enthusiast;RTOS+%26+Real-Time+Systems;3x+Hackathon+Runner-Up+%F0%9F%8F%86;Building+hardware+that+thinks." alt="Typing SVG" />
-</a>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Embedded+Systems+%26+IoT+Developer;Robotics+Enthusiast;RTOS+%26+Real-Time+Systems;3x+Hackathon+Runner-Up+%F0%9F%8F%86;Building+hardware+that+thinks.)](https://github.com/Anishparnapalli)
 
-<a href="https://www.linkedin.com/in/anish-parnapalli-0b87052a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="https://anishparnapalliportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=framer&amp;logoColor=white" /></a>
-<a href="mailto:anishparnapalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-parnapalli-0b87052a8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://anishparnapalliportfolio.framer.website/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishparnapalli@gmail.com)
 
 </div>
 
@@ -19,8 +16,8 @@
 
 - 🎓 B.Tech in **Electronics & Communication Engineering**, SRM Institute of Science & Technology *(Class of 2027)*
 - ⚡ I like turning circuits, sensors and code into things that can sense, move and think
-- 🔭 Currently building embedded systems, IoT platforms and Edge-AI-driven robotics
-- 🌱 Exploring **RTOS internals**, **VLSI design**, and applied **Machine Learning**
+- 🔭 Currently building embedded systems, IoT platforms and robotics projects
+- 🌱 Exploring **RTOS internals** and **VLSI design**
 - 🏆 3× Hackathon runner-up, with multiple 1st / 2nd / 3rd place national and institute-level wins
 - 🎨 Off the breadboard: oil pastels, acrylic painting, sketching & mandala art
 - 🗣️ English · Telugu · Hindi · Tamil
@@ -28,40 +25,49 @@
 
 <br/>
 
+## 🎓 Education
+
+| Qualification | Institution | Duration | Score |
+|---|---|---|---|
+| B.Tech, Electronics & Communication Engineering | SRM Institute of Science & Technology | 2023 – 2027 | CGPA 8.97/10 |
+| Class XII (MPC) | Narayana Jr. College | 2023 | 93.4% |
+| Class X | D.A.V. Model High School | 2021 | 99% |
+
+<br/>
+
 ## 🛠️ Tech Stack
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages & Programming Proficiency**
+
+| Level | Language |
+|:---:|---|
+| 🟢 Good Working Knowledge | Embedded C |
+| 🟡 Basic | Python |
 
 **Embedded, IoT & Robotics**
 <br/>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![QNX](https://img.shields.io/badge/QNX_RTOS-1E88E5?style=for-the-badge&logo=blackberry&logoColor=white)
+![QNX RTOS](https://img.shields.io/badge/QNX_RTOS-1E88E5?style=for-the-badge&logo=blackberry&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Design & Simulation**
 <br/>
 ![LTspice](https://img.shields.io/badge/LTspice-1E1E1E?style=for-the-badge&logo=analog&logoColor=white)
-![Xilinx](https://img.shields.io/badge/Xilinx_ISE-CC0000?style=for-the-badge&logo=amd&logoColor=white)
+![Xilinx ISE](https://img.shields.io/badge/Xilinx_ISE-CC0000?style=for-the-badge&logo=amd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![TinkerCad](https://img.shields.io/badge/TinkerCad-1FBAD6?style=for-the-badge&logo=tinkercad&logoColor=white)
 
 **Tools & Platforms**
 <br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![QNX Momentics](https://img.shields.io/badge/QNX_Momentics-1E88E5?style=for-the-badge&logo=blackberry&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 <br/>
 
@@ -75,9 +81,9 @@
 <td width="60%">
 
 ### 🕷️ S.P.I.D.E.X. — Spider Platform for Integrated Dynamic Engineering X-bot
-A Bluetooth-controlled, bio-inspired quadruped robot with a 12-servo (3-DOF-per-leg) architecture driven by real-time inverse kinematics. Features a dual-rail power system to prevent brownouts under full servo load, a 3D-printed chassis, and multiple gaits — forward, backward, turning, and a gesture pose.
+A Bluetooth-controlled, bio-inspired quadruped robot using a 12-servo, 3-DOF-per-leg architecture with real-time inverse kinematics for multi-gait locomotion.
 
-`Arduino` · `C/C++` · `Inverse Kinematics` · `Bluetooth (HC-05)` · `3D-Printed Chassis`
+`Arduino` · `C/C++` · `Inverse Kinematics` · `Bluetooth (HC-05)`
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anishparnapalli/S.P.I.D.E.X.-Spider-Platform-for-Integrated-Dynamic-Engineering-X-bot)
 
@@ -91,9 +97,9 @@ A Bluetooth-controlled, bio-inspired quadruped robot with a 12-servo (3-DOF-per-
 <td width="60%">
 
 ### 🦾 M.A.T.R.I.X. — Motion Articulation & Telemetric Real-time Interface eXecution
-A model-in-the-loop cyber-physical system pairing a QNX 8.0 RTOS controller with a live Three.js web dashboard. Demonstrates real-time priority scheduling, deterministic execution and emergency preemption, alongside a teach-and-record system for autonomous sequence replay — directly contrasting RTOS vs. non-RTOS timing behaviour.
+A QNX RTOS-based robotic arm control platform paired with a live Three.js digital twin dashboard, demonstrating real-time scheduling, preemption, and deterministic execution.
 
-`QNX RTOS` · `C` · `Python (WebSockets)` · `Three.js` · `HTML/CSS/JS`
+`QNX RTOS` · `C` · `Python` · `Three.js` · `HTML/CSS/JS`
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anishparnapalli/MATRIX-Motion-Articulation-Telemetric-Real-time-Interface-eXecution)
 
@@ -107,7 +113,7 @@ A model-in-the-loop cyber-physical system pairing a QNX 8.0 RTOS controller with
 <td width="60%">
 
 ### 👁️ VisionAi — Real-Time Object Detection Platform
-An on-device, browser-based object detection platform running COCO-SSD and MobileNet via TensorFlow.js — no server or GPU required. Supports live webcam and image-upload detection with bounding-box visualization, voice announcements, and local detection history, and is fully repackaged as a native Android app via WebView.
+An on-device, browser-based object detection platform using TensorFlow.js, with live webcam and image-upload detection repackaged as a native Android app.
 
 `JavaScript` · `TensorFlow.js` · `Android Studio` · `WebView`
 
@@ -118,15 +124,13 @@ An on-device, browser-based object detection platform running COCO-SSD and Mobil
 </tr>
 
 <tr>
-<td width="40%" align="center">
-
-![EV Dashboard](https://img.shields.io/badge/⚡-Battery%20Management%20System-2c5364?style=for-the-badge)
-
+<td width="40%">
+<img src="https://raw.githubusercontent.com/Anishparnapalli/Nexsus-EV-Dashboard/main/images/nexus_dashboard.png" width="100%"/>
 </td>
 <td width="60%">
 
 ### 🔋 Nexus EV Dashboard — Smart EV Battery Management System
-A real-time, IoT-enabled Battery Management System for a small EV prototype. An ESP32 continuously monitors voltage, current and temperature and relays state over CAN bus to an STM32 motor controller, enabling three-zone thermal derating and safe shutdown — while a live MQTT-connected web dashboard streams telemetry and fault alerts to the browser.
+A real-time, IoT-enabled Battery Management System for an EV prototype, streaming live voltage, current, and temperature telemetry over MQTT with CAN-bus-based fault protection and safe shutdown.
 
 `ESP32` · `STM32` · `CAN Bus` · `MQTT` · `IoT`
 
@@ -145,11 +149,9 @@ A real-time, IoT-enabled Battery Management System for a small EV prototype. An 
 <td width="60%">
 
 ### 🎙️ Hybrid Voice-Based Home Assistant & Emergency Alert System
-A hybrid offline/online wearable assistive system for elderly and mobility-impaired users. Combines voice-controlled home automation, on-device fall detection, and a multi-level emergency alert mechanism with caregiver notifications — built on Edge AI, LoRa, and IoT for reliability even without constant connectivity.
+A hybrid offline/online wearable assistive system for elderly and mobility-impaired users, combining voice-controlled automation, on-device fall detection, and multi-level emergency alerts.
 
 `ESP32` · `TinyML` · `Edge AI` · `LoRa` · `MQTT` · `Blynk IoT`
-
-*Recognized across multiple hackathons — repository not public.*
 
 </td>
 </tr>
@@ -189,12 +191,9 @@ A hybrid offline/online wearable assistive system for elderly and mobility-impai
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anishparnapalli&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anishparnapalli&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anishparnapalli&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
+![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anishparnapalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anishparnapalli&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 <br/>
@@ -203,14 +202,14 @@ A hybrid offline/online wearable assistive system for elderly and mobility-impai
 
 ### 📬 Let's Connect
 
-<a href="https://www.linkedin.com/in/anish-parnapalli-0b87052a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="https://anishparnapalliportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=framer&amp;logoColor=white" /></a>
-<a href="mailto:anishparnapalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-parnapalli-0b87052a8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://anishparnapalliportfolio.framer.website/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishparnapalli@gmail.com)
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anishparnapalli&color=7AA2F7&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=100&amp;section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
 
 </div>
